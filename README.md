@@ -647,7 +647,8 @@ Container
 > Ready to see the implementions!
 
 - **PHP**
-	- [**apiato**](http://apiato.io/) *(A flawless framework for building scalable and testable API-Centric Apps in PHP.)*
+	- [**apiato**](http://apiato.io/) *(A flawless framework for building scalable and testable API-Centric Apps in PHP.)* Built with Laravel.
+	- [**expressive-porto**](https://github.com/lpj145/expressive-porto) *(An implementation of the PORTO architecture with Zend.) Built with Zend-Expressive.*
 - **JavaScript**
 - **Python**
 - **Java**
